@@ -23,52 +23,56 @@ Bonding is an organization that organizes cost-free events for students to allow
 
 ## The List that I know of (I try to update them accordingly)
 
-- Bonding: Aachen [pdf](https://firmenprofil-assets.bonding.de/Messe_AC_2022/Katalog/2022_Katalog_Firmenkontaktmesse_Aachen.pdf)
+- Bonding: Aachen
+  - Tuesday: [pdf](https://firmenprofil-assets.bonding.de/Messe_AC_2023/Katalog/bonding%20an%20der%20RWTH%20Aachen%202023%20Katalog%20Dienstag%20Website%2003.11.2023.pdf)
+  - Wednesday: [pdf](https://firmenprofil-assets.bonding.de/Messe_AC_2023/Katalog/bonding%20an%20der%20RWTH%20Aachen%202023%20Katalog%20Mittwoch%20Website%2003.11.2023.pdf)
+  - Thursday: [pdf](https://firmenprofil-assets.bonding.de/Messe_AC_2023/Katalog/bonding%20an%20der%20RWTH%20Aachen%202023%20Katalog%20Donnerstag%20Website%2003.11.2023.pdf)
 - Bonding: Berlin [pdf](https://files.bonding.de/katalog/2021_Katalog_Firmenkontaktmesse_Berlin.pdf)
 - Bonding: Braunschweig [pdf](https://braunschweig.firmenkontaktmesse.de/wp-content/uploads/sites/11/2022/05/Katalog_BS_Webseite_compressed.pdf)
 - Bonding: Dresden_01 [pdf](https://dresden.firmenkontaktmesse.de/wp-content/uploads/sites/7/2022/06/Katalog_Tag1_compressed.pdf)
 - Bonding: Dresden_02 [pdf](https://dresden.firmenkontaktmesse.de/wp-content/uploads/sites/7/2022/06/Katalog_Tag2_compressed.pdf)
 - Bonding: Dresden_03 [pdf](https://dresden.firmenkontaktmesse.de/wp-content/uploads/sites/7/2022/06/Katalog_Tag3_compressed.pdf)
 - Bonding: Erlangen [pdf](https://erlangen.firmenkontaktmesse.de/wp-content/uploads/sites/12/2022/06/Katalog_ERN_Webseite_compressed.pdf)
-- Bonding: Hamburg [pdf](https://files.bonding.de/katalog/2022_Katalog_IndustryNight_Hamburg.pdf)
+- Bonding: Hamburg [pdf](https://files.bonding.de/katalog/2023_Katalog_Firmenkontaktmesse_Hamburg.pdf)
 - Bonding: Kaiserslautern [pdf](https://files.bonding.de/katalog/2019_Katalog_Firmenkontaktmesse_Kaiserslautern.pdf)
-- Bonding: Karlsruhe [pdf](https://files.bonding.de/katalog/2022_Katalog_Firmenkontaktmesse_Karlsruhe.pdf)
+- Bonding: Karlsruhe [pdf](https://files.bonding.de/katalog/2024_Katalog_Firmenkontaktmesse_Karlsruhe.pdf)
+- Bonding: Munich [pdf](https://files.bonding.de/katalog/2019_Katalog_Firmenkontaktmesse_Muenchen.pdf)
 
 ## MISC
 
 - THE HANDBOOK(in Farsi) [Link](https://www.locomo.tips)
-  * So there is this guy [Loc0mo](https://twitter.com/loc0m0) (Tech guy, former Ex-Google and so on and so forth) that gives his advice on coding, job hunting, and mental health. It is in Farsi so there is that for the good or bad.
+  - So there is this guy [Loc0mo](https://twitter.com/loc0m0) (Tech guy, former Ex-Google and so on and so forth) that gives his advice on coding, job hunting, and mental health. It is in Farsi so there is that for the good or bad.
 
 ## Online Pools of Job Ads
 
 ### General Platform
 
-* [stepstone](https://www.stepstone.de/)
-* [jobrapido](https://de.jobrapido.com/)
-* [linkedin](www.linkedin.com)
-* [xing](www.xing.com)
-* [glassdoor](www.glassdoor.com)
-* [monster](www.monster.de)
-* [indeed](www.indeed.de)
+- [stepstone](https://www.stepstone.de/)
+- [jobrapido](https://de.jobrapido.com/)
+- [linkedin](www.linkedin.com)
+- [xing](www.xing.com)
+- [glassdoor](www.glassdoor.com)
+- [monster](www.monster.de)
+- [indeed](www.indeed.de)
 
 ### Internships, Working Students, Jobs for Graduates
 
-* [absolventa](www.absolventa.de)
-* [jobteaser](www.jobteaser.com)
+- [absolventa](www.absolventa.de)
+- [jobteaser](www.jobteaser.com)
 
 ### Start-ups
 
-* [gruenderszene](www.gruenderszene.de)
-* [angel](www.angel.co)
-* [arbeitnow](www.arbeitnow.com)
-* [germanystartupjobs](www.germanystartupjobs.com)
-* [berlinstartupjobs](www.berlinstartupjobs.com)
+- [gruenderszene](www.gruenderszene.de)
+- [angel](www.angel.co)
+- [arbeitnow](www.arbeitnow.com)
+- [germanystartupjobs](www.germanystartupjobs.com)
+- [berlinstartupjobs](www.berlinstartupjobs.com)
 
 ### Software Development
 
-* [honeypot](www.honeypot.io)
+- [honeypot](www.honeypot.io)
 
 ### City Specific
 
-* [Berlin](www.talent-berlin.de)
-* [Hamburg](www.yojo.de)
+- [Berlin](www.talent-berlin.de)
+- [Hamburg](www.yojo.de)
