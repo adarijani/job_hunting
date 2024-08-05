@@ -1,0 +1,99 @@
+% !TEX program = lualatex
+%-------------------------------------------------------------------------------
+% CONFIGURATIONS
+%-------------------------------------------------------------------------------
+% A4 paper size by default, use 'letter paper' for US letter
+\documentclass[11pt, a4paper]{russell}
+\usepackage{tikz}
+
+\usetikzlibrary{shapes}
+% Configure page margins with geometry
+\geometry{left=0.5cm, top=0.5cm, right=0.5cm, bottom=0.7cm, footskip=.5cm}
+
+% Specify the location of the included fonts
+\fontdir[fonts/]
+
+% Color for highlights
+% russell Colors: russell-emerald, russell-skyblue, russell-red, russell-pink, russell-orange
+%                 russell-nephritis, russell-concrete, russell-darknight, russell-purple
+\colorlet{russell}{russell-darknight}
+% Uncomment if you would like to specify your own color
+% \definecolor{russell}{HTML}{CA63A8}
+
+% Colors for text
+% Uncomment if you would like to specify your own color
+% \definecolor{darktext}{HTML}{414141}
+% \definecolor{text}{HTML}{333333}
+% \definecolor{graytext}{HTML}{5D5D5D}
+% \definecolor{lighttext}{HTML}{999999}
+
+% Set false if you don't want to highlight section with russell color
+\setbool{acvSectionColorHighlight}{true}
+
+% If you would like to change the social information separator from a pipe (|) to something else
+\renewcommand{\acvHeaderSocialSep}{\quad\textbar\quad}
+
+
+%-------------------------------------------------------------------------------
+%	PERSONAL INFORMATION
+%	Comment any of the lines below if they are not required
+%-------------------------------------------------------------------------------
+% Available options: circle|rectangle,edge/noedge,left/right
+% \photo[circle,noedge,left]{./logo_small.jpg}
+\name{Ali}{Darijani}
+\position{\textbf{\Large{AI Scientist}}}
+% \address{\href{https://goo.gl/maps/pygHx529u7LsEZiK7}{Aachen, Germany, Europe, Earth, Solar System, Milky Way, Virgo Supercluster, Laniakea Supercluster}}
+\address{\href{https://goo.gl/maps/pygHx529u7LsEZiK7}{Aachen, Germany}}
+
+\mobile{+4917642743283}
+\email{\underline{ali.darijani.me@gmail.com}}
+%\dateofbirth{January 1st, 1970}
+\homepage{\underline{adarijani.github.io}} 
+\github{\underline{github.com/adarijani}}
+\linkedin{\underline{linkedin.com/in/ali-darijani}}
+% \gitlab{gitlab-id}
+% \stackoverflow{SO-id}{SO-name}
+% \twitter{@twit}
+% \skype{skype-id}
+% \reddit{reddit-id}
+% \medium{madium-id}
+% \kaggle{kaggle-id}
+% \googlescholar{googlescholar-id}{name-to-display}
+% \firstname and \lastname will be used
+% \googlescholar{googlescholar-id}{}
+% \extrainfo{extra information}
+
+% \quote{``Kolmogorov/Arnold or Bourbaki, that is the question"}
+\quote{``Use  ``Trivial'' to avoid writing something that you can not write easily in \LaTeX.''}
+
+
+%-------------------------------------------------------------------------------
+\begin{document}
+
+% Print the header with above personal informations
+% Give optional argument to change alignment(C: center, L: left, R: right)
+\makecvheader
+% Print the footer with 3 arguments(<left>, <center>, <right>)
+% Leave any of these blank if they are not needed
+\makecvfooter
+  {\today}
+  {Aachen, Germany}
+  {\thepage}
+%-------------------------------------------------------------------------------
+%	CV/RESUME CONTENT
+%	Each section is imported separately, open each file in turn to modify content
+%-------------------------------------------------------------------------------
+\input{cv/summary.tex}
+\input{cv/education.tex}
+\input{cv/experience.tex}
+\input{cv/skills.tex}
+\input{cv/languages.tex}
+\input{cv/achievements.tex}
+% \input{cv/projects.tex}
+\input{cv/interests.tex}
+
+
+\vspace*{\fill}
+\centering{\textbf{``The only way to learn mathematics is to do mathematics:-)"\\ Paul Halmos}}
+%-------------------------------------------------------------------------------
+\end{document}

@@ -95,21 +95,25 @@
 
 %% sample.bib contains your publications
 %% \addbibresource{main.bib}
+ \input{glyphtounicode}
 
+\pdfgentounicode=1 
 \begin{document}
     \name{Ali Darijani}
-    \tagline{Computational Scientist | Software Developer}
+    % \tagline{Computational Scientist | Software Developer}
+    \tagline{Computational Scientist}
     %% You can add multiple photos on the left or right
     \photoL{4cm}{john_doe_small}
     \personalinfo{
-        \email{ali.darijani.me@gmail.com}\smallskip
+        % \email{ali.darijani.me@gmail.com}\smallskip
+        \email{ali.darijani@rwth-aachen.de}\smallskip
         \phone{+4917642743283}
         \location{Aachen, Germany}\\
         \linkedin{ali-darijani}
         \github{adarijani}
+        \homepage{adarijani.github.io/}
         % \npm{npmUser}
         % \dev{devtoUser}
-        %\homepage{nicolasomar.me}
         %\medium{nicolasomar}
         %% You MUST add the academicons option to \documentclass, then compile with LuaLaTeX or XeLaTeX, if you want to use \orcid or other academicons commands.
         % \orcid{0000-0000-0000-0000}
@@ -134,7 +138,11 @@
     \begin{paracol}{2}
         % ----- TECH STACK -----
         \cvsection{TECH STACK}
-        \cvtag{UNIX/POSIX/Linux}
+        % \cvtag{Unix}
+        % \cvtag{POSIX}
+        % \cvtag{Linux}
+        % \cvtag{UNIX/POSIX/Linux}
+
             \cvtag{PyTorch}
             \cvtag{TensorFlow}
             \cvtag{Keras}
@@ -145,20 +153,29 @@
             % \cvtag{OpenCV}
             \cvtag{Pandas}
             \cvtag{SciPy}
+            \cvtag{Matplotlib}
             \cvtag{NumPy}
             \cvtag{Python}
             \cvtag{MATLAB}
             \cvtag{Zsh}
             \cvtag{Bash}
-            \cvtag{C++}
-            \cvtag{C}
+            % \cvtag{C}
+            % \cvtag{C++}
+            % \cvtag{Make}
+            % \cvtag{CMake}
+            % \cvtag{OpenMP}
+            % \cvtag{MPI}
             \cvtag{Linux}
-            \cvtag{POSIX}
-            % \cvtag{Matplotlib}
             \cvtag{UNIX}
-            \cvtag{Docker}
-            \cvtag{Cloud Computing}
-            \cvtag{HPC Computing}\\
+            \cvtag{POSIX}
+            % \cvtag{High-Performance Computing}
+            \cvtag{SLURM}\\
+            \cvtag{Cloud Computing}\\
+            % \cvtag{POSIX}
+            % \cvtag{UNIX}
+            % \cvtag{Docker}
+            % \cvtag{Cloud Computing}
+            % \cvtag{HPC Computing}\\
             \cvtag{\TeX/\LaTeX/PGF/Tikz}
             % \medskip
             % \cvtag{YAML}
@@ -179,6 +196,7 @@
         
         % ----- LEARNING -----
         \cvsection{Math Stack}
+            \cvtag{AI}
             \cvtag{Deep Learning}\\
             \cvtag{Signal/Image Processing}
             % \cvtag{Machine Learning}            
@@ -295,7 +313,7 @@
         
         % ----- EDUCATION -----
         \cvsection{Education}
-            \cvevent{MSc in Simulation Sciences}{RWTH Aachen University}{01.10.2019 -- 01.10.2023}{Aachen, Germany}
+            \cvevent{MSc in Simulation Sciences}{RWTH Aachen University}{01.10.2019 -- 21.12.2023}{Aachen, Germany}
             \begin{itemize}
                 \item GPA: 1.9
             \end{itemize}
