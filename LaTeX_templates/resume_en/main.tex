@@ -22,23 +22,33 @@
 %% SOFTWARE.
 
 % The font could be set to Windows-specific Calibri by using the 'calibri' option
-\documentclass[calibri]{mcdowellcv}
+% \documentclass[calibri]{mcdowellcv}
+\documentclass[Times New Roman]{mcdowellcv}
+% \documentclass{mcdowellcv}
+% \documentclass[calibri]{mcdowellcv}
+
 
 % For mathematical symbols
 \usepackage{hyperref}
 \usepackage{amsmath}
+% \usepackage{times}
 
 % Set applicant's personal data for header
 \name{Ali Darijani}
-\address{Aachen \linebreak Germany}
-\contacts{(+49) 17642743283 \linebreak ali.darijani@rwth-aachen.de}
-% \contacts{(+49) XXXXXXXXXXX \linebreak X@rwth-aachen.de}
-
+% \address{Karlsruhe \linebreak Germany}
+\address{Earth \linebreak Milky Way}
+\address{German/Iranian}
+\contacts{\href{tel:+4917642743283}{+4917642743283} \linebreak \href{email:ali.darijani@kit.edu}{ali.darijani@kit.edu}}
+% \contacts{\href{tel:+4917642743283}{+4917642743283} \linebreak \href{email:ali.darijani@iosb.fraunhofer.de}{ali.darijani@iosb.fraunhofer.de}}
+% \contacts{\href{tel:+4917642743283}{+4917642743283} \linebreak \href{email:ali.darijani@rwth-aachen.de}{ali.darijani@rwth-aachen.de}}
+% \contacts{\href{tel:+4917642743283}{+4917642743283} \linebreak \href{email:ali.darijani@alum.sharif.edu}{ali.darijani@alum.sharif.edu}}
+% \contacts{\href{tel:+4917642743283}{+4917642743283} \linebreak \href{email:ali.darijani.me@gmail.com}{ali.darijani.me@gmail.com}}
+% \contacts{\href{tel:+4917642743283}{+4917642743283} \linebreak \href{email:ali.darijani@kit.edu}{ali.darijani@kit.edu}}
 \begin{document}
 	% Print the header
 	\makeheader
 	% Print the content
-	\input{src/summary.tex}
+	% \input{src/summary.tex}
 	\input{src/education.tex}
 	% \input{src/award.tex}
 	\input{src/skills.tex}
